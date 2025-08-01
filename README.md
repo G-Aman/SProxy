@@ -6,6 +6,9 @@ Simple reverse proxy to bypass CORS.
 - `https://proxy.amang.workers.dev/?destination=<URL>`
 - `https://proxy.amang.workers.dev/?url=<URL>`
 
+**Example:**
+- `https://proxy.amang.workers.dev/?destination=https://httpbin.org/get`
+
 ---
 
 ### features:
